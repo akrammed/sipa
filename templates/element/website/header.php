@@ -1,10 +1,27 @@
-
-
 <header>
-    <!-- Header Start -->
-    <div class="header-area header-transparent" style="background-color: white !important;">
-        <div class="main-header ">
-        
+    <div class="header-area header-transparent">
+        <div class="main-header">
+            <div class="header-top d-none d-lg-block">
+                <div class="container-fluid">
+                    <div class="row d-flex justify-content-between align-items-center">
+                        <div class="header-info-left">
+                            <ul>
+                                <li>Mobile: +213-555-57-80-16</li>
+                                <li>Whatsapp: +213-555-38-15-74</li>
+                                <li>Adresse: Cité 400 Logements Bât. 3A, N° 3/4 El Hammamet, Chéraga, ALGER</li>
+                            </ul>
+                        </div>
+                        <div class="header-info-right">
+                            <ul class="header-social">
+                                <li><a href="https://twitter.com/capaalgerie#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://web.facebook.com/capa.Algeria"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/capaalgerie/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.youtube.com/@capaalgerie"><i class="fab fa-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="header-bottom  header-sticky">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -22,9 +39,9 @@
                                         <li><a style="font-size: 12px; color: #00235b; font-weight: 600;" href="/">ACCUEIL</a></li>
                                         <li><a style="font-size: 12px;  color: #00235b; font-weight: 600;" href="#">QUI SOMMES NOUS</a>
                                             <ul class="submenu">
-                                                <li><a href="/">Présentation de salon</a></li>
-                                                <li><a href="/">L'Algérie</a></li>
-                                                <li><a href="/">Présentation de secteur</a></li>
+                                                <li><a href="/presentationdesalon">Présentation de salon</a></li>
+                                                <li><a href="/lalgerie">L'Algérie</a></li>
+                                                <li><a href="/presentationdesecteur">Présentation de secteur</a></li>
                                                 <li><a href="/">Fiche technique de salon</a></li>
                                             </ul>
                                         </li>
